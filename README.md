@@ -13,9 +13,6 @@ To ensure a smooth process, please take a moment to read through this guide.
   - [Suggesting Enhancements](#suggesting-enhancements)
   - [Contributing Code](#contributing-code)
   - [Improving Documentation](#improving-documentation)
-- [Development Workflow](#development-workflow)
-- [Style Guidelines](#style-guidelines)
-- [License](#license)
 
 ---
 
@@ -71,10 +68,3 @@ Good documentation is just as important as good code! If you notice any areas of
 3. **Follow the same process as contributing code** (fork, branch, pull request).
 
 ---
-
-## Development Workflow
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourorg/project-name.git
-   cd project-name
