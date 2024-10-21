@@ -71,3 +71,10 @@ Good documentation is just as important as good code! If you notice any areas of
 3. **Follow the same process as contributing code** (fork, branch, pull request).
 
 ---
+
+## Development Workflow
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourorg/project-name.git
+   cd project-name
